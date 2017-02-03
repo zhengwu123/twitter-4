@@ -1,6 +1,6 @@
 # Project 5 - *twitter_swift*
 
-Time spent: **21** hours spent in total
+Time spent: **15** hours spent in total
 
 ## User Stories
 
@@ -40,7 +40,7 @@ Please list two areas of the assignment you'd like to **discuss further with you
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/riM5zld.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/T8i7VB3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
